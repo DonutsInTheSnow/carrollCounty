@@ -767,13 +767,14 @@ section,
     background-size: cover;
   }
 
-  .hero h1 {
+  .hero h2 {
     font-size: 28px;
     line-height: 36px;
+    margin-bottom: 10px;
   }
 
-  .hero span {
-    font-size: 40px;
+  .hero h1 span {
+    font-size: 60px;
   }
 
   .hero p {
