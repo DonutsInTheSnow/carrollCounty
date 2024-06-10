@@ -760,7 +760,7 @@ section,
     width: 100%;
     min-height: 75vh;
     position: relative;
-    padding: 140px 0;
+    padding: 100px 0;
     display: flex;
     align-items: start;
     background: url("../img/carroll-hero-bg-mobile.webp") top left;
@@ -770,6 +770,10 @@ section,
   .hero h1 {
     font-size: 28px;
     line-height: 36px;
+  }
+
+  .hero span {
+    font-size: 40px;
   }
 
   .hero p {
