@@ -364,11 +364,11 @@ h6 {
   }
 
   .mobile-nav-active .mobile-nav-toggle {
-    color: #fff;
+    color: var(--heading-color);
     position: absolute;
-    font-size: 32px;
-    top: 15px;
-    right: 15px;
+    font-size: 35px;
+    top: 65px;
+    right: 25px;
     margin-right: 0;
     z-index: 9999;
   }
