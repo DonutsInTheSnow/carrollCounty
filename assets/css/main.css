@@ -376,14 +376,13 @@ h6 {
   .mobile-nav-active .navmenu {
     position: fixed;
     overflow: hidden;
-    inset: 0 0 300px 0;
+    inset: 0 0 200px 0;
     background: rgba(33, 37, 41, 0.2);
     transition: 0.3s;
   }
 
   .mobile-nav-active .navmenu>ul {
     display: block;
-    list-style-type: square;
   }
 }
 
